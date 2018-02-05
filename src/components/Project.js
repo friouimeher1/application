@@ -12,8 +12,8 @@ export default class  Project extends Component {
               <a href="#hook">{ this.props.item.years }</a>
 
           </span> <br/>- <span className="project-tagline">
-              <b>  { this.props.item.sujet }</b>
-            <p>{ this.props.item.outil}</p>
+              <b>  Sujet :{ this.props.item.sujet }</b>
+            <p>-Outil : { this.props.item.outil}</p>
               </span>
 
         </div>
