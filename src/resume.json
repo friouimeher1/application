@@ -1,0 +1,117 @@
+{
+	"name": "FRIOUI Meher",
+	"email": "meherfrioui2017@gmail.com",
+	"phone": "25565688",
+	"image":"https://pbs.twimg.com/profile_images/934465373021368320/iObjmQYm_200x200.jpg",
+	"website": "programmingbuddy.club",
+	"twitter": "@juno10218614",
+	"twitterURL": "https://github.com/fronojono",
+  "youtube":"https://www.youtube.com/channel/UCdSUOkNKBqWFFQzqx-N7KQA",
+  "github": "@juno10218614",
+	"githubURL": "https://github.com/fronojono",
+  "profile":"j’ai donc l’honneur de vous présenter ma candidature ",
+  "p": "Étant diplômé de l’Institut Superieur d’Informatique et des Technologies de télécommunication ",
+  "p1":"Hammam Sousse, cycle ingénieur spécialisé en Téléinformatique ",
+	"experiences" : [
+		{
+			"title" : " développeurs web laravel",
+			"period": "September - november -2017",
+			"company": " Itgate, Sousse",
+      "detail":"Projet Web service ."
+
+
+		},
+		{
+			"title" : "Stage projet de fin d’études ",
+			"period": "Février – mai -2017",
+			"company": "HelpSoft, Sousse",
+      "detail":"Développement d’une application web et mobile ."
+		},
+		{
+			"title" : "Stage d’été, Tunisie Télécom ",
+			"period": "juin - juillet - 2016",
+			"company": "Sousse.",
+      "detail":"Développement d’une application de pointage ."
+		},
+		{
+			"title" : "Stage projet de fin d’études",
+			"period": "Février – mai - 2014",
+			"company": "Hôpital , Kairouan. ",
+      "detail":"Développement d’une application mobile ."
+		}
+	],
+	"projects": [
+		{
+			"years":"Année 2017",
+			"sujet": "Développement d’une application web et mobile qui en ligne met les commerces de  quartier.",
+			"outil": "Laravel, Android."
+		},
+		{
+			"years":"Année 2014",
+			"sujet": "Développement d’une application de détection et reconnaissance faciale",
+			"outil": "Android, Opencv."
+		}
+	],
+	"skills": [
+		{
+			"name": "Python & Django",
+			"percent": "70%"
+		},
+		{
+			"name": "Javascript & jQuery & Ajax",
+			"percent": "90%"
+		},
+		{
+			"name": "ReactJs",
+			"percent": "95%"
+		},
+		{
+			"name": "HTML5 & CSS & Bootstrap",
+			"percent": "80%"
+		},
+		{
+			"name": "PHP & Laravel",
+			"percent": "70%"
+		},
+		{
+			"name": "Symfony",
+			"percent": "50%"
+		},
+		{
+			"name": "Git",
+			"percent": "60%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Diplôme national d’ingénieur en Téléinformatique",
+			"university": "ISITCom, Hammam Sousse.",
+			"period": "2014 – 2017"
+		},
+		{
+			"degree": "Licence Fondamentale en Informatique",
+			"university": "ISIGK, Kairouan.",
+			"period": "2011 – 2013"
+		}
+	],
+	"languages": [
+		{
+			"name":"Arabe",
+			"details": "Langage maternel."
+		},
+		{
+			"name":"Français",
+			"details": "Moyenne ."
+		},
+		{
+			"name":"Anglais",
+			"details": "Bien."
+		}
+	],
+	"interests": [
+		"Dynamique",
+		"Sérieux",
+		"Responsable",
+		"Patient"
+	]
+}
