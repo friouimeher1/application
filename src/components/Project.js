@@ -13,6 +13,7 @@ export default class  Project extends Component {
 
           </span> <br/>- <span className="project-tagline">
               <b>  { this.props.item.sujet }</b>
+            <p>{ this.props.item.outil}</p>
               </span>
 
         </div>
